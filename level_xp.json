@@ -1,4 +1,4 @@
 {
-  "version": "1.0.6.2",
-  "changelog": "Görev menüsü eklendi\nGizli görevler eklendi\nNametag konumu düzeltildi"
+  "version": "1.0.8",
+  "changelog": "Hata Düzeltildi event RTR-Level-XP:client:taskComplete was not safe for net"
 }
